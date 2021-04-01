@@ -1,0 +1,16 @@
+/mnt/c/Users/ungerb/Documents/OSS2021/cicdlab8/Lab8-CICD/build/CMakeFiles/install/strip.dir
+/mnt/c/Users/ungerb/Documents/OSS2021/cicdlab8/Lab8-CICD/build/CMakeFiles/install/local.dir
+/mnt/c/Users/ungerb/Documents/OSS2021/cicdlab8/Lab8-CICD/build/CMakeFiles/install.dir
+/mnt/c/Users/ungerb/Documents/OSS2021/cicdlab8/Lab8-CICD/build/CMakeFiles/list_install_components.dir
+/mnt/c/Users/ungerb/Documents/OSS2021/cicdlab8/Lab8-CICD/build/CMakeFiles/Tutorial.dir
+/mnt/c/Users/ungerb/Documents/OSS2021/cicdlab8/Lab8-CICD/build/CMakeFiles/rebuild_cache.dir
+/mnt/c/Users/ungerb/Documents/OSS2021/cicdlab8/Lab8-CICD/build/CMakeFiles/test.dir
+/mnt/c/Users/ungerb/Documents/OSS2021/cicdlab8/Lab8-CICD/build/CMakeFiles/edit_cache.dir
+/mnt/c/Users/ungerb/Documents/OSS2021/cicdlab8/Lab8-CICD/build/MathFunctions/CMakeFiles/install/strip.dir
+/mnt/c/Users/ungerb/Documents/OSS2021/cicdlab8/Lab8-CICD/build/MathFunctions/CMakeFiles/install/local.dir
+/mnt/c/Users/ungerb/Documents/OSS2021/cicdlab8/Lab8-CICD/build/MathFunctions/CMakeFiles/install.dir
+/mnt/c/Users/ungerb/Documents/OSS2021/cicdlab8/Lab8-CICD/build/MathFunctions/CMakeFiles/list_install_components.dir
+/mnt/c/Users/ungerb/Documents/OSS2021/cicdlab8/Lab8-CICD/build/MathFunctions/CMakeFiles/MathFunctions.dir
+/mnt/c/Users/ungerb/Documents/OSS2021/cicdlab8/Lab8-CICD/build/MathFunctions/CMakeFiles/test.dir
+/mnt/c/Users/ungerb/Documents/OSS2021/cicdlab8/Lab8-CICD/build/MathFunctions/CMakeFiles/edit_cache.dir
+/mnt/c/Users/ungerb/Documents/OSS2021/cicdlab8/Lab8-CICD/build/MathFunctions/CMakeFiles/rebuild_cache.dir
